@@ -6,6 +6,7 @@ img {
   background-color: #c8622b;
   background-image: url("img/woodbg.png");
   padding: 1.5em 0;
+  color : #fafafa;
 }
 
 .btn-cta {
