@@ -1,5 +1,9 @@
+img {
+  max-width: 100%;
+}
+
 .header {
-  background-color: #eee;
+  background-color: #e4e2db;
   padding: 1.5em 0;
 }
 
