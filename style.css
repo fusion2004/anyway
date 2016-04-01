@@ -3,7 +3,8 @@ img {
 }
 
 .header {
-  background-color: #e4e2db;
+  background-color: #c8622b;
+  background-image: url("img/woodbg.png");
   padding: 1.5em 0;
 }
 
